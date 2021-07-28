@@ -1,0 +1,20 @@
+[
+  {
+    "outputFileName": "share/include.min.js",
+    "inputFiles": [
+      "share/include.js"
+    ]
+  },
+  {
+    "outputFileName": "share/commonelements.min.html",
+    "inputFiles": [
+      "share/commonelements.html"
+    ]
+  },
+  {
+    "outputFileName": "share/sidebar.min.html",
+    "inputFiles": [
+      "share/sidebar.html"
+    ]
+  },
+]
