@@ -17,4 +17,10 @@
       "share/sidebar.html"
     ]
   },
+  {
+    "outputFileName": "share/commonheadmeta.min.html",
+    "inputFiles": [
+      "share/commonheadmeta.html"
+    ]
+  }
 ]
