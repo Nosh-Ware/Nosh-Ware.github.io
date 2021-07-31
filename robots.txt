@@ -1,0 +1,20 @@
+﻿User-agent: *
+Disallow: /
+
+User-agent: GoogleBot
+Allow: /
+
+User-agent: GoogleBot-Image
+Allow: /
+
+User-agent: Bingbot
+Allow: /
+
+User-agent: Adsbot-Google
+Allow: /
+
+User-agent : msnbot
+Allow: /
+
+User-agent : DuckDuckBot
+Allow: /
